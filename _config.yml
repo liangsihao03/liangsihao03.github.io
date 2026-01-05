@@ -28,20 +28,17 @@ author:
   pronouns         : # example: "he/him"  
   bio              : "我是一名热爱编程的研究生"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Taiyuan University of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "liangsihao0352@link.tyut.edu.cn" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
