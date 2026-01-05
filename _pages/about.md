@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+My main research directions include graph neural networks and interpretable analysis of graph neural networks
