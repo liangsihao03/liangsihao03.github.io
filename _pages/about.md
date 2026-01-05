@@ -8,3 +8,6 @@ redirect_from:
 ---
 
 My main research directions include graph neural networks and interpretable analysis of graph neural networks
+
+This is my email address：liangsihao0352@link.tyut.edu.cn
+
